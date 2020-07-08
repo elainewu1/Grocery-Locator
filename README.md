@@ -1,4 +1,4 @@
-# Grocery-Locator
+# Grocery Locator
 
 Purpose:
 Information management system to aid in recommending groceries based on user profile and locating the stores that have wanted groceries. 
